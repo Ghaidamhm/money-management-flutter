@@ -46,8 +46,8 @@ class _MyWidgetState2 extends State<ChartScreen> {
       ];
     }
     List<SalesData> columnData = <SalesData>[
-      for (int i = 0; i < historyList.length; i++)
-        SalesData("${historyList[i]['subtitle']}", (historyList[i]['value']))
+      for (int j = 0; j < historyList.length; j++)
+        SalesData("${historyList[j]['subtitle']}", (historyList[j]['value']))
 
       // SalesData((historyList[index]['title']), (historyList[index]['value'])),
       // SalesData("ايجار", 500),
