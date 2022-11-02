@@ -3,6 +3,7 @@ import 'package:personal_expenses_new/screens/chart_screen.dart';
 import 'package:personal_expenses_new/screens/history_screen.dart';
 import 'package:personal_expenses_new/screens/home_screen.dart';
 import 'package:personal_expenses_new/screens/settings_screen.dart';
+// import 'package:personal_expenses_new/screens/settings_screen.dart';
 
 class BottomBarScreen extends StatefulWidget {
   const BottomBarScreen({super.key});
@@ -23,6 +24,7 @@ class _BottomBarScreenState extends State<BottomBarScreen> {
 // و استخدمها في الbody تبع الscafold في البوتن سكرين باد نفسها
   final List<Map<String, dynamic>> _pages = const [
     {'title': 'الإعدادات', 'screen': SettingScreen()},
+    // {'title': 'الإعدادات', 'screen': SettingScreen()},
     {'title': 'السجل', 'screen': HistoryScreen()},
     {'title': 'الاحصائيات', 'screen': ChartScreen()},
     {'title': 'المصاريف', 'screen': HomeScreen()},

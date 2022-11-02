@@ -3,15 +3,15 @@ import 'package:get_storage/get_storage.dart';
 import 'package:personal_expenses_new/screens/onboarding_screen.dart';
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 
-
 void main() async {
   await GetStorage.init();
-  FlutterNativeSplash.removeAfter(initialization);
 
+  FlutterNativeSplash.removeAfter(initialization);
 
   runApp(const MyApp());
 }
-Future initialization(BuildContext context)async{
+
+Future initialization(BuildContext context) async {
   await Future.delayed(Duration(seconds: 3));
 }
 

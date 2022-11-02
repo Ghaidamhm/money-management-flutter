@@ -52,6 +52,8 @@ class _SalaryScreenState extends State<SalaryScreen> {
   int savings = 0;
   List historyList = [];
 
+// انشئهم داخل الستورج عشان بعد كذا اقدر اخزن فيهم في اي وقت
+// اعمل لهم قيمو فاضية عندي و ابتدي اخزن فيهم بعد كذا
   void setSalary(int salary) {
     setState(() {
       box.write('salary', salary);

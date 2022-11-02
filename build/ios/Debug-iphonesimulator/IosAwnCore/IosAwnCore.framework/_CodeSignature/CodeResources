@@ -18,6 +18,7 @@
 		</data>
 		<key>Modules/IosAwnCore.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
+<<<<<<< HEAD
 		NeczEzeELO8VwskuGTLRHnrF/GE=
 		</data>
 		<key>Modules/IosAwnCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
@@ -27,6 +28,17 @@
 		<key>Modules/IosAwnCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
 		ERsTNZQUURaMjLYl7xrZxyqDpzU=
+=======
+		r6EP593cdxmYTaCf4E6IsPEdWSE=
+		</data>
+		<key>Modules/IosAwnCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
+		<data>
+		QV40QO34D5hHEwOOu5SBG8bLsJs=
+		</data>
+		<key>Modules/IosAwnCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		ji7J9f8Pg/fTZKE5FvMexnZLHfE=
+>>>>>>> f4f8bc2b8468b9d8ddb2e69879840eb682b57ad3
 		</data>
 		<key>Modules/IosAwnCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -42,11 +54,19 @@
 		</data>
 		<key>Modules/IosAwnCore.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
+<<<<<<< HEAD
 		IQPpkQd7opl6xVwMmYd0MX8rMGs=
 		</data>
 		<key>Modules/IosAwnCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
 		ERsTNZQUURaMjLYl7xrZxyqDpzU=
+=======
+		j4pAXHMit+NhDswY1wvWBAVa/og=
+		</data>
+		<key>Modules/IosAwnCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		ji7J9f8Pg/fTZKE5FvMexnZLHfE=
+>>>>>>> f4f8bc2b8468b9d8ddb2e69879840eb682b57ad3
 		</data>
 		<key>Modules/IosAwnCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -62,7 +82,11 @@
 		</data>
 		<key>Modules/IosAwnCore.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
+<<<<<<< HEAD
 		h1MxKj1F8D8oTjHXpgglUIYf4I4=
+=======
+		toteQIWtwtlZoNkewFzVEdA+Bq4=
+>>>>>>> f4f8bc2b8468b9d8ddb2e69879840eb682b57ad3
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -97,33 +121,57 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			NeczEzeELO8VwskuGTLRHnrF/GE=
 			</data>
 			<key>hash2</key>
 			<data>
 			y0F+YXmdx1F8UkvWMN23NTjFSz2x4C0vhKnkFkYn+HE=
+=======
+			r6EP593cdxmYTaCf4E6IsPEdWSE=
+			</data>
+			<key>hash2</key>
+			<data>
+			edVKmwdK8P7VuswTImLGiGGzTOOvC8Xw3ljbCmKRvb4=
+>>>>>>> f4f8bc2b8468b9d8ddb2e69879840eb682b57ad3
 			</data>
 		</dict>
 		<key>Modules/IosAwnCore.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			C9LE3mC/6pU9sHLJRKXylKUJSgM=
 			</data>
 			<key>hash2</key>
 			<data>
 			KGkW60L3G9f2iexswH/+H6Aygn4uRB0DCLLaD0OzXds=
+=======
+			QV40QO34D5hHEwOOu5SBG8bLsJs=
+			</data>
+			<key>hash2</key>
+			<data>
+			crYvn0gs3HihM2IjU9nOtl0kDHLYhnKUO7ksONLbgKo=
+>>>>>>> f4f8bc2b8468b9d8ddb2e69879840eb682b57ad3
 			</data>
 		</dict>
 		<key>Modules/IosAwnCore.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			ERsTNZQUURaMjLYl7xrZxyqDpzU=
 			</data>
 			<key>hash2</key>
 			<data>
 			EHCxh6lPScJcmmH5YbxYrSiUKW4/YZ/GbTCvobBYAMQ=
+=======
+			ji7J9f8Pg/fTZKE5FvMexnZLHfE=
+			</data>
+			<key>hash2</key>
+			<data>
+			fO64qrZIMC1/RPingDCIgfMCwdunEMSL90ONw1xPrZo=
+>>>>>>> f4f8bc2b8468b9d8ddb2e69879840eb682b57ad3
 			</data>
 		</dict>
 		<key>Modules/IosAwnCore.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -163,22 +211,38 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			IQPpkQd7opl6xVwMmYd0MX8rMGs=
 			</data>
 			<key>hash2</key>
 			<data>
 			N5n/8XbbRJJLkOQYRezRKp2zUUil3hkEufhjQPnFkqM=
+=======
+			j4pAXHMit+NhDswY1wvWBAVa/og=
+			</data>
+			<key>hash2</key>
+			<data>
+			3YdByD2Kcp2TZ3RhUzRSDZfDgyUTodBXYXjcV78vSRA=
+>>>>>>> f4f8bc2b8468b9d8ddb2e69879840eb682b57ad3
 			</data>
 		</dict>
 		<key>Modules/IosAwnCore.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			ERsTNZQUURaMjLYl7xrZxyqDpzU=
 			</data>
 			<key>hash2</key>
 			<data>
 			EHCxh6lPScJcmmH5YbxYrSiUKW4/YZ/GbTCvobBYAMQ=
+=======
+			ji7J9f8Pg/fTZKE5FvMexnZLHfE=
+			</data>
+			<key>hash2</key>
+			<data>
+			fO64qrZIMC1/RPingDCIgfMCwdunEMSL90ONw1xPrZo=
+>>>>>>> f4f8bc2b8468b9d8ddb2e69879840eb682b57ad3
 			</data>
 		</dict>
 		<key>Modules/IosAwnCore.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -218,11 +282,19 @@
 		<dict>
 			<key>hash</key>
 			<data>
+<<<<<<< HEAD
 			h1MxKj1F8D8oTjHXpgglUIYf4I4=
 			</data>
 			<key>hash2</key>
 			<data>
 			JrRGCrUBjmLk07WTTTj1x+KgZ4ktFWr925r7nBXOtrU=
+=======
+			toteQIWtwtlZoNkewFzVEdA+Bq4=
+			</data>
+			<key>hash2</key>
+			<data>
+			yD1RL0jKIgt3ac7cKMiKL27op5k4qracidPLJzDgQm8=
+>>>>>>> f4f8bc2b8468b9d8ddb2e69879840eb682b57ad3
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
